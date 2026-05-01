@@ -1,8 +1,9 @@
 streamlit
-openai
+openai<1.0.0
 chromadb
 pandas
 python-dotenv
 beautifulsoup4
 requests
 lxml
+protobuf==3.20.3
